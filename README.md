@@ -20,6 +20,7 @@ En concreto, el contenido de este repositorio está enfocado a explicar cómo se
 
 *   [Introducción a SIMANFOR](https://github.com/simanfor/introduccion)
 *   [Inventarios en SIMANFOR](https://github.com/simanfor/inventarios)
+*   [Manual de uso de SIMANFOR](https://github.com/simanfor/manual)
 *   [Modelos en SIMANFOR](https://github.com/simanfor/modelos)
 *   [Publicaciones acerca de SIMANFOR](https://github.com/simanfor/publicaciones)
 *   [Resultados de simulación en SIMANFOR](https://github.com/simanfor/resultados)
