@@ -20,7 +20,7 @@ In this repository, you will find information related to silvicultural scenarios
 ## :scroll: Content
 
 * :book: :es: **SIMANFOR_escenarios.pdf**: Explanation of how scenarios work in SIMANFOR web and their development in Spanish.
-* :book: 🇬🇧 **SIMANFOR_escenarios_EN.pdf**: Explanation of how scenarios work in SIMANFOR web and their development in English.
+* :book: 🇬🇧 **english/SIMANFOR_scenarios.pdf**: Explanation of how scenarios work in SIMANFOR web and their development in English.
 
 ---
 

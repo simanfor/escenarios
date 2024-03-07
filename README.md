@@ -20,7 +20,7 @@ En este repositorio encontrarás información relacionada con los escenarios sel
 ## :scroll: Contenido
 
 * :book: :es: **SIMANFOR_escenarios.pdf**: explicación del funcionamiento de los escenarios en SIMANFOR web y su elaboración en español.
-* :book: 🇬🇧 **SIMANFOR_escenarios_EN.pdf**: explicación del funcionamiento de los escenarios en SIMANFOR web y su elaboración en inglés.
+* :book: 🇬🇧 **english/SIMANFOR_scenarios.pdf**: explicación del funcionamiento de los escenarios en SIMANFOR web y su elaboración en inglés.
 
 ---
 
